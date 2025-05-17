@@ -550,11 +550,6 @@ https://wahyu1ptv.pages.dev/AfN-HD.m3u8
 // 06. Knowledge TV
 ============================================================================================================================================================
 
-#EXTINF:-1 group-title="06. Knowledge TV" tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png",000.LOVE NATURE HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
-
-
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/History.png" group-title="06. Knowledge TV",001.History
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
@@ -584,10 +579,27 @@ https://WahyuIPTV.short.gy/LoveNature-HD.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BBCEarth.png" group-title="06. Knowledge TV",006. BbcEarth
+#EXTINF:-1 group-title="06. Knowledge TV" tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png",006.LOVE NATURE HD
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
+
+
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BBCEarth.png" group-title="06. Knowledge TV",007. BbcEarth
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://WahyuIPTV.short.gy/BbcEarth.mpd
 
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/ 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="} 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
+#EXTINF:-1 tvg-logo="https://cdnjkt913.transvision.co.id:1000/image/web/channel/4028c685840ff0490184560339e74365/4113ac9662814d5c8e04cb7e4d45d073.jpg" group-title="06. Knowledge TV",008. Nature Vision TV 
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c685840ff0490184560339e74365/manifest.mpd
 
 
 
