@@ -651,6 +651,14 @@ https://WahyuIPTV.short.gy/BabyTV-HD.mpd
 https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 
+
+#EXTINF:-1 group-title="07. Kids TV" tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png",010. CARTOON NETWORK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
+
+
 ============================================================================================================================================================
 // 08. Music TV
 ============================================================================================================================================================
