@@ -659,6 +659,31 @@ https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/194/cartoonnetwork/manifest.mpd
 
 
+
+#EXTINF:-1 group-title="07. Kids TV" tvg-logo="https://i.imgur.com/Hg0he73.png",011. Cartoonito
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
+
+
+
+#EXTINF:-1 group-title="07. Kids TV" tvg-logo="https://images.indihometv.com/logo_mentaritv_big.png",012. Mentari TV
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e69636b6a7230303030303030303030:5130a6e0a492e1cc152783c490679bc5
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
+
+
+#EXTINF:-1 group-title="07. Kids TV" tvg-logo="https://images.indihometv.com/logo_davinci_big1.png",013. Da Vinci Learning
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
+
+
 ============================================================================================================================================================
 // 08. Music TV
 ============================================================================================================================================================
