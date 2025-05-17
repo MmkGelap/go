@@ -540,7 +540,7 @@ https://wahyu1ptv.pages.dev/HitsNow-HD.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/fW0dD8MZ/arirang.png" group-title="05. Lifestyle TV",005. Arirang
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_arirang_big.png" group-title="05. Lifestyle TV",005. Arirang
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
