@@ -136,19 +136,27 @@ https://wahyu1ptv.pages.dev/Indosiar-HD.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="02. Local TV",002. RcTi
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/RcTi-HD.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=1
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=1
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/GTV.png" group-title="02. Local TV",003. GtV
-https://wahyu1ptv.pages.dev/gTv-HD.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm-vip.php/widevine?id=3
+https://tvkitastream.my.id/rctiplus/mpd-vip.php/stream.mpd?id=3
 
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MNCTV.png" group-title="02. Local TV",004. MncTV
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
-https://wahyu1ptv.pages.dev/MnC-TV.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv_pro/developer.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.m3u8
 
 
 
@@ -552,6 +560,15 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d01703417e
 
 #EXTINF:-1 group-title="05. Lifestyle TV" tvg-logo="https://images.indihometv.com/logo_nhkworld_big.png",006. NHK WORLD JAPAN
 https://cdn11jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
+
+
+
+#EXTINF:-1 group-title="05. Lifestyle TV"  tvg-logo="https://images.indihometv.com/logo_afc_ver1.png",007. ASIA FOOD NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/indihome/get.php?id=afc&type=drm
+https://tvkitastream.my.id/indihome/get.php/.mpd?id=afc&type=dash
 
 
 
