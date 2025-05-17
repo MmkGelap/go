@@ -550,6 +550,11 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d01703417e
 
 
 
+#EXTINF:-1 group-title="05. Lifestyle TV" tvg-logo="https://images.indihometv.com/logo_nhkworld_big.png",006. NHK WORLD JAPAN
+https://cdn11jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
+
+
+
 
 ============================================================================================================================================================
 // 06. Knowledge TV
