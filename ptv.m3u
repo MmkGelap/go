@@ -646,7 +646,9 @@ https://WahyuIPTV.short.gy/CBeebies.mpd
 https://WahyuIPTV.short.gy/BabyTV-HD.mpd
 
 
-
+#EXTINF:-1 group-title="07. Kids TV" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",009. FunPlanet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 
 ============================================================================================================================================================
